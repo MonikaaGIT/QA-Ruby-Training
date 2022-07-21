@@ -7,4 +7,3 @@ def palindrome?(string)
   end
   reversed_string == string
 end
-  

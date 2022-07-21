@@ -11,4 +11,3 @@ def fibonacci(term)
   end
   sequence
 end
-

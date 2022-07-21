@@ -1,4 +1,3 @@
-
 def is_prime?(number)
   count = 0
   iterator = 1
@@ -10,4 +9,3 @@ def is_prime?(number)
   end
   count == 2
 end
-  

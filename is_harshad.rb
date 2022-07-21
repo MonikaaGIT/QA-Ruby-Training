@@ -9,4 +9,3 @@ def is_harshad?(number)
   end
   (number1 % sum == 0) 
 end
-

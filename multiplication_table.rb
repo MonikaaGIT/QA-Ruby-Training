@@ -1,4 +1,3 @@
-
 def multiplication(number,limit)
   multiply_table = []
   for iterator in 1..limit 
@@ -8,4 +7,3 @@ def multiplication(number,limit)
   end
   multiply_table
 end
-    

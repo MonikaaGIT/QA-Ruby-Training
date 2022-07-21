@@ -1,4 +1,3 @@
-
 def is_armstrong?(number)
   temporary = number
   count = 0
@@ -17,4 +16,3 @@ def is_armstrong?(number)
   number = temporary
   number == sum
 end
-
